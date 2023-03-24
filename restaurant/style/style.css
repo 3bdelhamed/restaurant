@@ -1,0 +1,113 @@
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    top: 0%;
+}
+.navbar h2{
+    font-family: 'Marhey', cursive;
+    display: inline-block;
+    color: #E4012A;
+}
+.navbar a{
+    display: inline-block;
+    margin: 1em;
+    text-decoration: none;
+    font-size: 22px;
+    color: #E4012A;
+
+}
+.navbar div {
+    display: inline-block;
+    align-items: center;
+    direction: rtl;
+}
+body{
+    background-color: #F1F2F7;
+    font-family: 'Marhey', cursive;
+    
+}
+.tday ,.cutter{
+    width: 90%;
+    margin: auto;
+}
+
+.tday img {
+    height: 100%;
+    width: 100%;
+}
+.menu{
+    width: 90%  ;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.exm h3{
+    margin-bottom: 0px;
+
+}
+.exm hr{
+    width: 2em;
+    height: 4px;
+    background-color: #E4012A;
+    margin-top: 0;
+    display: inline-block;
+}
+.contener{
+width: 20%;
+text-align: center;
+background-color: #fff;
+border-radius: 100% 0% 100% 0% / 44% 100% 0% 56%  ;
+}
+.contener img,.tdeal img {
+    width: 100%;
+}
+.contener hr{
+    background-color: #69d019;
+    width: 4em;
+    height: 4px;
+    border-radius: 50px;
+}
+.tdeal{
+    width: 20%;
+    display: inline;
+    text-align: center;
+    background-color: #ffffff73;
+    border-radius:50px ;
+}
+section {
+    width: 70%;
+    margin: auto;
+    font-size: 32px;
+    text-align: center  ;
+    background-image: url('../poster/paras-kapoor-SQ1vUOxSIZc-unsplash.jpg');
+    background-attachment: fixed;
+    padding: 150px;
+    background-size: cover;
+}
+section h1{
+    color: #69d019;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    color: #F1F2F7;
+    background-color: #393E53;
+    height: 280px;
+    margin-bottom: 0%;
+}
+footer a {
+    display: inline-block;
+    margin: 1em;
+    text-decoration: none;
+    font-size: 12px;
+    color: #69d019;
+    display: inline-block;
+    align-items: center;
+    direction: rtl;
+
+}
+
+
